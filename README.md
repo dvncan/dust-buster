@@ -13,7 +13,7 @@
 ## 🖥️ Usage
 
 ```bash
-./smart_repo_scan.sh /path/to/your/repo
+./dust_buster.sh ~/your/path
 ```
 
 # 📦 Example Output
@@ -33,9 +33,9 @@
 ./.../.DS_Store
 
 🗑️  Do you want to delete the suggested files above? [y/N]
-
-[y] ✅ Cleanup done.
-
-[n] ❌ Skipping deletion.
+|
+|-- y / Y -- ✅ Cleanup done.
+|
+|-- n / N -- ❌ Skipping deletion.
 
 ```
